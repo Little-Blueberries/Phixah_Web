@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  },
+  "name": "phixah_mainweb",
+  "version": "1.0.0",
+  "description": "- `app.js`: Main entry point. Sets up Express, middleware, and routes.\r - `routes/`: Route definitions.\r - `controllers/`: Route handler logic.\r - `models/`: Data models or database schemas.\r - `middlewares/`: Custom middleware functions.\r - `config/`: Configuration files.\r - `public/`: Static assets (CSS, JS, images).\r - `views/`: Template files for rendering HTML.",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Little-Blueberries/Phixah_Web.git"
+  },
+  "author": "Phixah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Little-Blueberries/Phixah_Web/issues"
+  },
+  "homepage": "https://github.com/Little-Blueberries/Phixah_Web#readme"
+}

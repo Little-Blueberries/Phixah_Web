@@ -1,0 +1,5 @@
+# .vercelignore
+# Files and folders to ignore during Vercel deployment
+node_modules
+.DS_Store
+.env
